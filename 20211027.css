@@ -12,3 +12,16 @@
         height: 50px;
         width: 150px;
     }
+    #img-master{
+        border: 3px #e29518;
+    }
+    .relative{
+        background: #ab7070;
+        width: 500px;
+        height: 500px;
+    }
+    .abolute{
+        background: #cea2a2;
+        width: 100px;
+        height: 100px;
+    }
